@@ -1,4 +1,5 @@
 #PHP7 Programming Cookbook
+By Packt
 
 This is the code repository for the book [PHP 7 Programming Cookbook](https://www.packtpub.com/application-development/php-7-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883446). It contains all the supporting project files necessary to work through the book from start to finish.
 
@@ -23,7 +24,7 @@ Note: Code bundle is present for all the chapters except for the Appendix.
 
 ##Related Products
 
-[Object-Oriented Programming with PHP5](https://www.packtpub.com/web-development/instant-php-web-scraping-instant?utm_source=github&utm_medium=repository&utm_campaign=9781782164760)
+* [Object-Oriented Programming with PHP5](https://www.packtpub.com/web-development/instant-php-web-scraping-instant?utm_source=github&utm_medium=repository&utm_campaign=9781782164760)
 
 ###Suggestions and Feedbacks
 
